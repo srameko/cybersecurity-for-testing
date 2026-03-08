@@ -1,9 +1,9 @@
 {
-  "name": "czechitas-bezpecnost-101-slides",
+  "name": "czechitas-cybersecurity-for-testing",
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /bezpecnost-101/ --out dist",
+    "build": "slidev build --base /cybersecurity-for-testing/ --out dist",
     "preview": "npm run build && npx serve dist -l 4000"
   },
   "dependencies": {
