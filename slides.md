@@ -25,7 +25,7 @@ subtitle: "Lead Info Security Engineer"
 layout: bio
 image: /ondrej.png
 name: "Ondřej Šrámek"
-subtitle: "Lektor kurzů bezpečnosti"
+subtitle: "GMON, GNFA, GCTI"
 ---
 - Pracoval pro státní správu i komerční sektor
 - 12+ let v oboru
@@ -63,17 +63,9 @@ layout: center
 # Děkujeme za pozornost!
 Klára Pavelková & Ondřej Šrámek
 
-**Czechitas · DA Kybernetická bezpečnost · 2025**
+**Czechitas · DA Kybernetická bezpečnost · 2026**
 ---
 layout: center
 ---
 # Zpětná vazba
 Budeme rádi za vaši zpětnou vazbu!
----
-layout: center
----
-# Kontakt
-
-Klára Pavelková · kx.pavelkova@gmail.com
-
-Ondřej Šrámek · ondrej@ondrejsramek.cz
