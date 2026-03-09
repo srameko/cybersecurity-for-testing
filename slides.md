@@ -9,8 +9,7 @@ fonts:
   sans: Open Sans
   mono: Source Code Pro
 ---
-# Kybernetická bezpečnost
-## Testování & Bezpečnost pro uživatele
+# Kybernetická bezpečnost pro Digitální akademii testování
 ---
 layout: bio
 image: /klara.png
