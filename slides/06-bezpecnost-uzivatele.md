@@ -11,6 +11,7 @@ layout: default
 
 Ty nejdůležitější zvyky, které vám v dlouhodobém horizontu usnadní život.
 
+<img src="/personal-security.png" class="mx-auto mt-4" style="object-fit: contain; width: 100%; max-height: 80%;" />
 ---
 layout: default
 ---
@@ -44,6 +45,12 @@ layout: default
 ---
 # Základní zabezpečení počítače
 
+<img src="/cat-laptop.png" class="mx-auto" style="object-fit: contain; width: 100%; max-height: 85%;" />
+---
+layout: default
+---
+# Základní zabezpečení počítače
+
 **Zamknutí obrazovky:**
 
 | OS | Zkratka |
@@ -61,11 +68,19 @@ layout: default
 ---
 # Přihlašování a hesla
 
+<div class="grid grid-cols-2 gap-8 mt-2">
+<div>
 
 - **Nastavte si MFA (2FA)**, nejlépe Passkeys — sociální sítě, e-mail, banka, …
 - **Co služba, to unikátní heslo** — ověřte na [haveibeenpwned.com](https://haveibeenpwned.com)
 - **Správce hesel** — pamatujete si jen jedno heslo (1Password, BitWarden, …)
 - **SSO** — [mojeid.cz](https://www.mojeid.cz), [bankid.cz](https://www.bankid.cz/), Apple / Google / Facebook
+
+</div>
+<div>
+  <img src="/passwords.png" style="object-fit: contain; width: 80%; max-height: 100%;" />
+</div>
+</div>
 
 
 ---
@@ -119,3 +134,8 @@ layout: default
 | Telefon | Vytáhnout paměťovou kartu a zničit (nůžky) |
 
 > Nezapomenout na SIM!
+
+---
+layout: image
+image: /kahoot-user-security.png
+---
