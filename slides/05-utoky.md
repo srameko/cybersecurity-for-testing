@@ -9,104 +9,143 @@ layout: default
 ---
 # Podvody (Scam)
 
-**Jak to funguje?**
+<div class="grid grid-cols-2 gap-8 mt-2">
+<div>
 
+**Jak to funguje?**
 
 - Prodáváte na bazaru
 - Kupující „zaplatí" přes Zásilkovnu / DPD
 - Zadejte číslo karty, …
 
-
-<v-click>
-
 > **Prověřujte** — co vám kdo posílá a co po vás chce
 
-</v-click>
+</div>
+<div class="grid grid-cols-2 gap-2">
+  <img src="/whataspp.png" style="object-fit: contain; width: 100%;" />
+  <img src="/zasilkovna.png" style="object-fit: contain; width: 100%;" />
+</div>
+</div>
 
 ---
 layout: default
 ---
 # Phishing · Smishing · Vishing
 
-**Jak to funguje?**
+<div class="grid grid-cols-2 gap-8 mt-2">
+<div>
 
+**Jak to funguje?**
 
 - Nátlak / časová tíseň
 - Propracovaný scénář
 - Bankéř → Policie → GIBS
 
-
-<v-click>
-
 > **Nespěchejte, ověřte** pravost a druhou stranu
 
-</v-click>
+<img src="/smishing.png" style="object-fit: contain; width: 50%; margin-top: 0.5rem;" />
+
+</div>
+<div>
+  <img src="/phishing.png" style="object-fit: contain; width: 85%; max-height: 100%;" />
+</div>
+</div>
 
 ---
 layout: default
 ---
 # Nebezpečné reklamy (Malvertising)
 
-**Jak to funguje?**
+<div class="grid grid-cols-2 gap-8 mt-2">
+<div>
 
+**Jak to funguje?**
 
 - Útočníci si platí reklamu, aby zacílili
 - Vyhledávání (konkrétní klíčová slova)
 - Sociální sítě, zpravodajské weby, bulvár
 
-
-<v-click>
-
 **Zvažte blokování reklam** — např. AdGuard
 
-</v-click>
+</div>
+<div>
+  <img src="/investice.png" style="object-fit: contain; width: 60%; max-height: 100%;" />
+</div>
+</div>
 
 ---
 layout: default
 ---
 # Info Stealer
 
-**Jak to funguje?**
+<div class="grid grid-cols-5 gap-8 mt-2">
+<div class="col-span-2">
 
+**Jak to funguje?**
 
 - Infikujete si počítač nebo prohlížeč
 - Krádež veškerých užitečných dat
 
-
-<v-click>
-
 > **Neukládejte si nic do prohlížeče!**
 
-</v-click>
+</div>
+<div class="col-span-3">
+  <img src="/infostealer.png" style="object-fit: contain; width: 90%; max-height: 100%;" />
+</div>
+</div>
 
 ---
 layout: default
 ---
 # Škodlivá příloha
 
+<div class="grid grid-cols-5 gap-8 mt-2">
+<div class="col-span-2">
+
 **Jak to funguje?**
 
-```
-Outlook / e-mail → DOC / XLS / PDF → malware → ransomware
+<div style="transform: scale(0.7); transform-origin: top left; margin-bottom: -4rem;">
+
+```mermaid
+flowchart TD
+  A[Outlook / e-mail] --> B[DOC / XLS / PDF]
+  B --> C[malware]
+  C --> D[ransomware]
 ```
 
-<v-click>
+</div>
 
 > **Zakažte makra**
 
-</v-click>
+</div>
+<div class="col-span-3">
+  <img src="/maldoc.png" style="object-fit: contain; width: 100%; max-height: 100%;" />
+</div>
+</div>
 
 ---
 layout: default
 ---
 # AI a nová rizika
 
+<div class="grid grid-cols-2 gap-8 mt-2">
+<div>
+
 Využíváte prohlížeče **Perplexity Comet** nebo **OpenAI Atlas**?
 
 Oba mají potvrzenou **Prompt Injection!**
 
-
 - Dobře si rozmyslete na co koukáte a co do prohlížeče ukládáte
 - Zvažte, zda ho vůbec chcete používat
 - **Data mají cenu zlata!**
+
+</div>
+<div>
+  <img src="/ai-browser.png" style="object-fit: contain; width: 100%; max-height: 100%;" />
+</div>
+</div>
+---
+layout: image
+image: /kahoot-threats.png
+---
 
