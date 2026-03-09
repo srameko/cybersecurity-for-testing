@@ -27,7 +27,14 @@ layout: default
 | **Dopad** | Pokud unikne heslo → útočník se dostane do systému |
 | **Příklad** | Ukradené heslo ze špatně zabezpečeného webu / infostealer |
 | **Jak ověřit** | Zkontrolovat, zda aplikace podporuje MFA (OTP / Passkeys) |
+| **Vyzkoušej** | [TOTP Challenge](https://authenticationtest.com/totpChallenge/) |
 
+---
+layout: default
+---
+# Jak nemá MFA vypadat
+
+<img src="/mfa.png" class="mx-auto" style="max-height: 80%; width: 80%; object-fit: contain;" />
 ---
 layout: default
 ---
@@ -39,6 +46,7 @@ layout: default
 | **Dopad** | Útočník může odposlechnout hesla a citlivá data (PII) |
 | **Příklad** | Přihlášení k účtu přes veřejnou Wi-Fi |
 | **Jak ověřit** | Podívat se, zda web běží na `https://` a má důvěryhodný certifikát |
+| **Vyzkoušej** | [badssl.com](https://badssl.com/) |
 
 ---
 layout: default
@@ -51,7 +59,7 @@ layout: default
 | **Dopad** | Útočník může číst, měnit nebo mazat data v databázi |
 | **Příklad** | `' OR '1'='1` v přihlašovacím formuláři |
 | **Jak ověřit** | Do pole vložit `' OR '1'='1` a sledovat co se stane |
-| **Demo** | Hacksplaining - SQLi |
+| **Demo** | [Hacksplaining - SQLi](https://www.hacksplaining.com/lessons/sql-injection/start) |
 
 ---
 layout: default
@@ -64,7 +72,7 @@ layout: default
 | **Dopad** | Může krást přihlášení nebo manipulovat obsahem |
 | **Příklad** | Komentář `<script>alert(1)</script>` |
 | **Jak ověřit** | Otestovat vložením skriptu do textového pole |
-| **Demo** | Hacksplaining - XSS |
+| **Demo** | [Hacksplaining - XSS](https://www.hacksplaining.com/lessons/xss-stored/start) |
 
 ---
 layout: default
@@ -77,7 +85,7 @@ layout: default
 | **Dopad** | Nechtěná akce jménem uživatele (např. převod peněz) |
 | **Příklad** | Skrytý odkaz v e-mailu změní nastavení účtu |
 | **Jak ověřit** | Podívat se, zda má formulář unikátní CSRF token |
-| **Demo** | Hacksplaining - CSRF |
+| **Demo** | [Hacksplaining - CSRF](https://www.hacksplaining.com/lessons/csrf/start) |
 
 ---
 layout: default
@@ -91,6 +99,15 @@ layout: default
 | **Příklad** | Otevření URL `/admin` bez administrátorských oprávnění |
 | **Jak ověřit** | Přihlásit se jako běžný uživatel a zkusit admin URL |
 
+---
+layout: default
+---
+# Přidejte si admina (Driver categorization FIA)
+
+<div class="grid grid-cols-2 gap-4 mt-4">
+  <img src="/sqli-fia-1.png" style="object-fit: contain; max-height: 75%; width: 80%;" />
+  <img src="/sqli-fia-2.png" style="object-fit: contain; max-height: 75%; width: 80%;" />
+</div>
 ---
 layout: default
 ---
@@ -114,8 +131,7 @@ layout: default
 | **Dopad** | Útočník využije známé chyby a pronikne do systému |
 | **Příklad** | Stará verze jQuery s veřejnou zranitelností |
 | **Jak ověřit** | Podívat se na verze knihoven (např. zdrojový kód webu) |
-
-**Zdroje:** CVE Details · National Vulnerability Database · Snyk Security Database
+| **Zdroje** | [CVE Details](https://www.cvedetails.com/) · [National Vulnerability Database](https://nvd.nist.gov/vuln/) · [Snyk Security Database](https://security.snyk.io/) |
 
 ---
 layout: default
@@ -128,5 +144,14 @@ layout: default
 | **Co způsobí** | Útočník získá detaily, které mu pomohou s útokem |
 | **Příklad** | Chybová hláška ukáže SQL dotaz, heslo nebo konfiguraci |
 | **Jak ověřit** | Využijte funkci zapomenuté heslo — přijde vám heslo čitelné? |
+| **Zdroje** | [Jak jsou uložena hesla](https://pulse.michalspacek.cz/passwords/storages) |
+---
+layout: default
+---
+# Příklad výpisu chyby
 
-**Zdroje:** Jak jsou uložena hesla
+<img src="/error.png" class="mx-auto mt-2" style="max-height: 80%; width: 80%; object-fit: contain;" />
+---
+layout: image
+image: /kahoot-pentest.png
+---

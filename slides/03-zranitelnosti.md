@@ -12,14 +12,12 @@ layout: default
 Objev → Report výrobci (Bug Bounty) → Potvrzení + odměna → Oprava (30–90 dní) → Patch / Update
 ```
 
-<v-clicks>
 
 1. **Objevíte zranitelnost**
 2. **Reportujete ji výrobci / autorovi** (Bug bounty)
 3. **Dostanete potvrzení** a možná nějakou odměnu
 4. **Za 30–90 dní** (většinou) dojde k nápravě (update)
 
-</v-clicks>
 
 ---
 layout: default
@@ -54,7 +52,6 @@ layout: default
 ---
 # Zranitelnosti — přehled
 
-<v-clicks>
 
 - **Remote Code Execution (RCE)** – útočník spustí libovolný kód na cílovém systému
 - **SQL Injection** – škodlivý SQL kód do vstupních polí → neoprávněný přístup k databázi
@@ -68,4 +65,3 @@ layout: default
 - **Broken Authentication** – slabé ověřování → převzetí účtů
 - **Security Misconfiguration** – špatné nastavení otevírá cestu útokům
 
-</v-clicks>

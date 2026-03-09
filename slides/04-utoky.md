@@ -10,13 +10,11 @@ layout: default
 
 **Jak to funguje?**
 
-<v-clicks>
 
 - Prodáváte na bazaru
 - Kupující „zaplatí" přes Zásilkovnu / DPD
 - „Zadejte číslo karty, …"
 
-</v-clicks>
 
 <v-click>
 
@@ -30,13 +28,11 @@ layout: default
 
 **Jak to funguje?**
 
-<v-clicks>
 
 - Nátlak / časová tíseň
 - Propracovaný scénář
 - Bankéř → Policie → GIBS
 
-</v-clicks>
 
 <v-click>
 
@@ -50,13 +46,11 @@ layout: default
 
 **Jak to funguje?**
 
-<v-clicks>
 
 - Útočníci si platí reklamu, aby zacílili na oběti
 - Vyhledávání (konkrétní klíčová slova)
 - Sociální sítě, zpravodajské weby, bulvár
 
-</v-clicks>
 
 <v-click>
 
@@ -70,12 +64,10 @@ layout: default
 
 **Jak to funguje?**
 
-<v-clicks>
 
 - Infikujete si počítač nebo prohlížeč
 - Krádež veškerých užitečných dat (hesla, cookies, karty, …)
 
-</v-clicks>
 
 <v-click>
 
@@ -115,12 +107,10 @@ Využíváte prohlížeče **Perplexity Comet** nebo **OpenAI Atlas**?
 
 Oba mají potvrzenou **Prompt Injection!**
 
-<v-clicks>
 
 - Dobře si rozmyslete na co koukáte a co do prohlížeče ukládáte
 - Zvažte, zda ho vůbec chcete používat
 
-</v-clicks>
 
 <v-click>
 

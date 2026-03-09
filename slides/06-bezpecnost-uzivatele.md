@@ -61,14 +61,12 @@ layout: default
 ---
 # Přihlašování a hesla
 
-<v-clicks>
 
 - **Nastavte si MFA (2FA)**, nejlépe Passkeys — sociální sítě, e-mail, banka, …
 - **Co služba, to unikátní heslo** — ověřte na [haveibeenpwned.com](https://haveibeenpwned.com)
 - **Správce hesel** — pamatujete si jen jedno heslo (1Password, BitWarden, …)
 - **SSO** — [mojeid.cz](https://www.mojeid.cz), [bankid.cz](https://www.bankid.cz/), Apple / Google / Facebook
 
-</v-clicks>
 
 ---
 layout: default
