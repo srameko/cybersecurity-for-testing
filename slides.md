@@ -31,7 +31,7 @@ subtitle: "GMON, GNFA, GCTI"
 - 12+ let v oboru
 - Incident Response, DFIR, Threat Hunting, Threat Intelligence
 ::qr::
-<QRCode url="https://www.linkedin.com/in/srameko/" :size="120">LinkedIn</QRCode>
+<QRCode url="https://linktr.ee/ondrejsramek" :size="120">Linktree</QRCode>
 ---
 src: ./slides/00-agenda.md
 ---
