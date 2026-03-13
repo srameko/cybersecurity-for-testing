@@ -18,18 +18,3 @@ Cílem prezentace je představit základní koncepty:
 Aktuální verze prezentace je dostupná online:
 
 https://srameko.github.io/cybersecurity-for-testing/
-
----
-
-## Lokální vývoj
-
-### Požadavky
-
-- Node.js 22+
-- npm
-
-### Build
-
-```bash
-npm run build
-```
