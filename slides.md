@@ -5,6 +5,7 @@ author: Klára Pavelková, Ondřej Šrámek
 mdc: true
 shiki:
   theme: github-light
+favicon: /favicon.png
 fonts:
   sans: Open Sans
   mono: Source Code Pro

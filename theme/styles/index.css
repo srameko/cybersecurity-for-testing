@@ -125,6 +125,40 @@
 .slidev-layout pre {
   font-family: 'Source Code Pro', monospace;
   border-radius: 8px;
+  font-size: 1.3rem;
+}
+
+/* ── Conversation / chat pattern ──
+   Use with v-clicks to reveal a back-and-forth exchange.
+   Wrap prompts in <div class="chat-prompt"> and responses in <div class="chat-response">.
+*/
+.slidev-layout .chat-prompt {
+  background: var(--czechitas-blue);
+  color: #ffffff;
+  padding: 0.6em 1em;
+  border-radius: 12px 12px 2px 12px;
+  margin: 0.5em 0;
+  margin-left: auto;
+  max-width: 80%;
+  width: fit-content;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.slidev-layout .chat-response {
+  background: #f0f0f5;
+  color: #333;
+  padding: 0.6em 1em;
+  border-radius: 12px 12px 12px 2px;
+  margin: 0.5em 0;
+  max-width: 80%;
+  width: fit-content;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.slidev-layout .chat-response strong {
+  color: var(--czechitas-pink);
 }
 
 /* ── Callout boxes ── */
@@ -156,6 +190,7 @@
   padding: 1.1em 0.9em;
   text-align: center;
   border: 1px solid #e8e8ee;
+  transition: box-shadow 0.2s;
 }
 .slidev-layout .icon-card .icon {
   font-size: 2rem;
