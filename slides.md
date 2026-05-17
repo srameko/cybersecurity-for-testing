@@ -68,6 +68,5 @@ Klára Pavelková & Ondřej Šrámek
 layout: center
 ---
 # Zpětná vazba
-Budeme rádi za vaši zpětnou vazbu!
 
 <QRCode url="https://moje.czechitas.cz/cs/zpetna-vazba" :size="200">Feedback form</QRCode>
