@@ -27,7 +27,7 @@ subtitle: "Lead Info Security Engineer"
 layout: bio
 image: /ondrej.png
 name: "Ondřej Šrámek"
-subtitle: "GMON, GNFA, GCTI"
+subtitle: "Incident Response Manager, GMON, GNFA, GCTI"
 ---
 - Pracoval pro státní správu i komerční sektor
 - 12+ let v oboru
