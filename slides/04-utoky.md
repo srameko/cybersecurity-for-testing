@@ -133,12 +133,11 @@ layout: default
 <div class="grid grid-cols-2 gap-8 mt-2">
 <div>
 
-Využíváte prohlížeče **Perplexity Comet** nebo **OpenAI Atlas**?
-
-Oba mají potvrzenou **Prompt Injection!**
-
-- Dobře si rozmyslete na co koukáte a co do prohlížeče ukládáte
-- Zvažte, zda ho vůbec chcete používat
+- Prohlížeče **Perplexity Comet** / **OpenAI Atlas** mají potvrzenou **Prompt Injection**
+- Vkládání kódu, API klíčů nebo testovacích dat do AI nástrojů → **únik dat**
+- AI-generované testy mohou dávat **falešný pocit pokrytí**
+- AI halucinuje — slepá důvěra bez vlastní verifikace je **bezpečnostní riziko**
+- Produkční data v promptech = potenciální **porušení GDPR**
 
 <div class="callout">
 
