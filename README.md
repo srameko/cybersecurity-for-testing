@@ -1,8 +1,8 @@
 # Kybernetická bezpečnost
 
-Tento repozitář obsahuje slides pro workshop **Kybernetická bezpečnost**, připravené jako studijní materiál pro **Czechitas Digitální akademii – Kybernetická bezpečnost**.
+Tento repozitář obsahuje slides pro lekci **Kybernetické bezpečnosti**, připravené jako studijní materiál pro **Czechitas Digitální akademii – Testování**.
 
-Slides jsou určeny jako **materiál k workshopu**. Účastníci je mohou procházet před i po praktickém workshopu.
+Slides jsou určeny jako **materiál k lekci**. Účastníci je mohou procházet před i po praktické lekci.
 
 Cílem prezentace je představit základní koncepty:
 
