@@ -10,7 +10,7 @@ fonts:
   sans: Open Sans
   mono: Source Code Pro
 layout: cover
-subtitle: pro Digitální akademii testování
+subtitle: pro Digitální akademii Testování
 ---
 # Kybernetická bezpečnost
 ---
