@@ -18,3 +18,7 @@ Cílem prezentace je představit základní koncepty:
 Aktuální verze prezentace je dostupná online:
 
 https://srameko.github.io/cybersecurity-for-testing/
+
+## Stažení PDF
+
+[cybersecurity-for-testing.pdf](https://srameko.github.io/cybersecurity-for-testing/cybersecurity-for-testing.pdf)
