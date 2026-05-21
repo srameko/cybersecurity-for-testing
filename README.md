@@ -21,4 +21,4 @@ https://srameko.github.io/cybersecurity-for-testing/
 
 ## Stažení PDF
 
-[cybersecurity-for-testing.pdf](https://srameko.github.io/cybersecurity-for-testing/cybersecurity-for-testing.pdf)
+📄 [Stáhnout prezentaci jako PDF](https://srameko.github.io/cybersecurity-for-testing/cybersecurity-for-testing.pdf)
